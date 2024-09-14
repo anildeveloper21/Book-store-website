@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 2,
+        "name": "Poem Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 50,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 3,
+        "name": "Joke Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 20,
+        "category": "enter",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 4,
+        "name": "Sport Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 50,
+        "category": "sport",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 5,
+        "name": "food Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 200,
+        "category": "food",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 6,
+        "name": "Music Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 100,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 7,
+        "name": "Horor Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 80,
+        "category": "horor",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 8,
+        "name": "Show Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 300,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 9,
+        "name": "Motivational Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 120,
+        "category": "motivate",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 10,
+        "name": "Magical Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 200,
+        "category": "magic",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    },
+
+    {
+        "id": 11,
+        "name": "Supplement Book",
+        "title": "lorem ipsum dolor sit amit consectur adipiscing elit",
+        "price": 240,
+        "category": "supply ",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717573221~exp=1717576821~hmac=2bec042cdca1ac5ffc309fef3da026fb61aa1e83f51d04a6b802eba8685fe525&w=740"
+    }
+]
